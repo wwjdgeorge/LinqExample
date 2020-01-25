@@ -18,6 +18,7 @@ namespace LinqExample
         }
         public List<Customer> Retrive()
         {
+            
             List<Customer> Cust = new List<Customer>
             {
                 new Customer()
